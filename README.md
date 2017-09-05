@@ -3,7 +3,7 @@
 Since I prefer to have my hands on the keyboard more then a mouse, I needed a quick and easy way to lock my Mac before I stepped away. I've used a screen Hot Corners in the past to enable my screensaver, which in turn locked my Mac. However, there were times I or others accidentally navigated to the Hot Corner and locked my Mac. So, now with Lock Screen I don't have to worry about a Hot Corner potentially inadvertently locking my screen. Now I can simply enter `Lock` in Finder and quickly step away for a fresh cup of tea.
 
 ## Getting Lock Screen
-[Release 1.0] (https://github.com/scriptmunkeeofficial/lock_screen/releases)
+[Release 1.0](https://github.com/scriptmunkeeofficial/lock_screen/releases/tag/1.0)
 
 ## Installing Lock Screen
 After downloading Lock Screen, follow the steps below to install the app.
