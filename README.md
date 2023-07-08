@@ -30,11 +30,11 @@ Before using Lock Screen you must enable your Mac to require a password when it 
 Press Command + Spacebar
 Type: lock
 ```
-![Lock From Finder](https://github.com/scriptmunkeeofficial/lock_screen/raw/master/resources/lock_from_finder.png "Lock from Finder")
+![Lock From Finder](/resources/lock_from_finder.png)
 
 ### From the Terminal
 
 ```
 open -a lock
 ```
-![Lock from Terminal](https://github.com/scriptmunkeeofficial/lock_screen/raw/master/resources/lock_from_terminal.png "Lock from Terminal")
+![Lock from Terminal](/resources/lock_from_terminal.png)
